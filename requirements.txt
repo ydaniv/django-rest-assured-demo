@@ -1,0 +1,4 @@
+django
+djangorestframework
+factory-boy
+django-rest-assured
